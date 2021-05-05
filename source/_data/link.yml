@@ -1,0 +1,9 @@
+- class_name: 我的友链
+  class_desc: 实用网站
+  link_list:
+    - name: 笔点导航
+      link: https://www.bidianer.com/
+      avatar: https://txc.gtimg.com/data/42474/2018/1109/ecdd214e730cc3a06370cbc3aeecf3ab.png
+      descr: 笔点导航
+      siteshot: https://z3.ax1x.com/2021/05/04/gunXuT.png
+      # siteshot就是站点缩略图的链接。
